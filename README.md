@@ -17,7 +17,7 @@ Tech Stack:
 
 ## Installation
 
-Update `docker-compose.yaml` with the correct env variables: 
+Update `bootstrap/docker-compose.yaml` with the correct env variables: 
 - `AWS_ACCESS_KEY_ID`
 - `AWS_SECRET_ACCESS_KEY`
 - `AWS_DEFAULT_REGION`
